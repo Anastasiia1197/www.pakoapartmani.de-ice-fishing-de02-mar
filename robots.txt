@@ -9,4 +9,4 @@ Disallow: /
 User-agent: CCBot
 Disallow: /
 
-Sitemap: https://michailidisstathis.gr/sitemap.xml
+Sitemap: https://www.pakoapartmani.de/sitemap.xml
